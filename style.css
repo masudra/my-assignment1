@@ -9,11 +9,12 @@
 
 #fast-h1{
     position: absolute;
-    top: 30%;
+    top: 25%;
     width: 85%;
     text-align: right;
-    font-size: 40px; 
-    font:bold ;
+    font-size: 55px; 
+    font:bold;
+    
 
 }
 #fast-pragraf{
@@ -23,13 +24,13 @@
     text-align: right;
     font-size:20px ;
     padding-top: 20px;
-   
+    
 }
   /*c Contact Us
  button  */
 #fast-button{
     position: absolute;
-    top: 80%;
+    top: 78%;
     right: 200px;
     font-size: 30px; 
     background-color:orangered;
@@ -52,6 +53,7 @@
 #person{
     height:480px t;
     width:480px ;
+  
 
 }
 #secend-h1{
@@ -77,6 +79,7 @@ li{
 #child-div{
     margin-top: 80px;
 }
+/*   third div  */
 #third-div{
    display: flex;
    justify-content: center;
@@ -97,6 +100,8 @@ li{
         margin-top: 12px;
         font-size: 23px;
     }
+
+    /* fourt div   */
 
 #fourt-div{
     background:linear-gradient(#f5080860,rgba(0, 128, 0, 0.445)) ,url(images/watch.png);
@@ -121,6 +126,7 @@ li{
     font-size: 40px;
     padding: 20px;
     margin-left: 30px;
+    color: white;
 }
 /*  last div    */
 #last-div{
@@ -128,13 +134,13 @@ li{
     display: flex;
     margin-top: 110px;
     gap: 50px;
-    
+  
 }
 #last-div-main{
     width: auto;
     height:420px ;
     background-color: rgba(0, 0, 0, 0.884);
-    
+
 }
 .last-h1{
     margin-top: 100px;
@@ -162,9 +168,6 @@ li{
     height: 60px;
     border: none;
     border-radius: 8px;
-    
-
-
 }
 #last-button{
     height: 50px;
