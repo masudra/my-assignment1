@@ -48,6 +48,17 @@
     margin:150px ;
     padding: 15px;
 }
+
+#person{
+    height:480px t;
+    width:480px ;
+    background-color: blue,;
+    
+    
+    
+
+
+}
 #secend-h1{
     margin-top: 180px;
     font-size: 40px;
@@ -71,6 +82,97 @@ li{
 
 #child-div{
     margin-top: 80px;
+}
+#third-div{
+   display: flex;
+   justify-content: center;
+   gap:80px;
+   text-align: center;
+  
+}
+.third-child-div{
+    margin-left: 20px;
+}
+#third-h1{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 45px;
+}
+#fourt-div{
+    background:linear-gradient(#f5080871,rgba(0, 128, 0, 0.521)) ,url(images/watch.png);
+    height: 245px;
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 180px;
+    border-radius: 15px;
+}
+#secend-button{
+    font-size: 25px;
+    width:170px;
+    height: 70px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 8px;
+    font-family:sans-serif;
+    color: coral;
+
+}
+#fourth-div-h1{
+    font-size: 40px;
+    padding: 20px;
+    margin-left: 30px;
+}
+/*  last div    */
+#last-div{
+    color: gainsboro;
+    display: flex;
+    margin-top: 110px;
+    gap: 50px;
+    
+}
+#last-div-main{
+    width: auto;
+    height:420px ;
+    background-color: rgba(0, 0, 0, 0.884);
+    
+}
+.last-h1{
+    margin-top: 100px;
+    font-size:35px ;
+}
+.last-pragraf{
+    margin-top: 20px;
+    font-size: 17px;
+}
+.ancor{
+    margin-top: 25px;
+    width: 45px;
+    height:45px ;
+    margin-left: 10px;
+}
+#last{
+    margin-left: 200px;
+}
+#last1{
+    margin-left: 250px;
+}
+#email{
+    margin-top: 20px;
+    width: 250px;
+    height: 60px;
+    border: none;
+    border-radius: 8px;
+}
+#last-button{
+    height: 50px;
+    width: 140px;
+    margin-top: 30px;
+    font-size: 25px;
+    border: none;
+    border-radius: 8px;
+    color: coral;
+    font-weight: 500;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 
