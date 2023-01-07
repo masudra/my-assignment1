@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+}
+.third-div{
+    background-image: url('banner/banner2.png');
+    height: 650px;
+    width: 1360px;
+
+}
+#fast-h1{
+       text-align: right;
+       font-size: 40px;
+       margin-top: 150px;
+       margin-right: 150px;
+     
+}
+#fast-pragraf{
+    text-align: right;
+       font-size: 20px;
+       margin-top: 20px;
+       margin-right: 150px;
+}
+#con-button{
+    position: absolute;
+    margin-top: 20px;
+    margin-right:90px ;
+    font-size: 30px; 
+    background-color:orangered;
+    width: auto;
+    height: 70px;
+    right: 50px ;
+    border: none;
+    border-radius: 8px;
+   
+
+}
